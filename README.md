@@ -9,8 +9,9 @@
 
 >[使用教程与下载地址](https://bvxsmepnrqz.feishu.cn/wiki/Q40Dwx5MLicb5nkxtnUc4rfSnPd)
 
-<img width="398" height="526" alt="image" src="https://gitee.com/tdh-gitee/cursor-free-vip/raw/master/images/mac.png" />
+<img width="398" height="526" alt="image" src="https://raw.githubusercontent.com/callmetang/Cursor-Free-VIP/refs/heads/main/mac.png" />
 
 >加入QQ群即可联系管理员获得更多技术支持
 
-<img src="https://gitee.com/tdh-gitee/cursor-free-vip/raw/master/images/qq.png" width="300"  height="300" alt="QQ群二维码">
+
+<img src="https://raw.githubusercontent.com/callmetang/Cursor-Free-VIP/refs/heads/main/qq.png" width="300"  height="300" alt="QQ群二维码">
