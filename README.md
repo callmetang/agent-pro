@@ -1,7 +1,5 @@
 # Agent PRO 使用指南 / Guide
 
-<img width="398" height="526" alt="image" src="https://raw.githubusercontent.com/callmetang/Cursor-Free-VIP/refs/heads/main/mac.png" />
-
 ## 语言 / Language
 - [中文](#zh-section)
 - [English](#en-section)
@@ -11,7 +9,7 @@
 <summary>中文</summary>
 
 ## 📦 产品简介
-- Agent PRO 支持Cursor、Windsurf一键换号，自动重置机器码，Free，AutoRegister，
+- Agent PRO 支持Cursor、Windsurf一键换号，自动重置机器码
 
 ## ✨ 功能亮点
 1. 点击一键换号，即可切换新账号，恢复满额度
@@ -46,11 +44,12 @@
 | 季卡 | 90 天 | 500 | 2 |
 
 - 购买地址：<https://pay.ldxp.cn/shop/M1X0Z98V>
-- 激活即开始计时，支持多人共享。
+- 激活后即开始计时，支持多人共享。
 
 ## 💬 技术支持
 - QQ 群：963858131
 
+<img width="398" height="526" alt="image" src="https://raw.githubusercontent.com/callmetang/Cursor-Free-VIP/refs/heads/main/mac-zh.png" />
 </details>
 
 <a id="en-section"></a>
@@ -97,7 +96,7 @@
 
 ## 💬 Support
 - QQ group: 963858131
-
+<img width="398" height="526" alt="image" src="https://raw.githubusercontent.com/callmetang/Cursor-Free-VIP/refs/heads/main/mac-us.png" />
 </details>
 
 
