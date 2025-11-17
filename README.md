@@ -49,7 +49,7 @@
 ## 💬 技术支持
 - QQ 群：963858131
 
-<img width="398" height="526" alt="image" src="https://raw.githubusercontent.com/callmetang/Cursor-Free-VIP/refs/heads/main/mac-zh.png" />
+<img width="398" height="526" alt="image" src="https://raw.githubusercontent.com/callmetang/agent-pro/refs/heads/main/mac-zh.png" />
 </details>
 
 <a id="en-section"></a>
@@ -96,7 +96,8 @@
 
 ## 💬 Support
 - QQ group: 963858131
-<img width="398" height="526" alt="image" src="https://raw.githubusercontent.com/callmetang/Cursor-Free-VIP/refs/heads/main/mac-us.png" />
+<img width="398" height="526" alt="image" src="https://raw.githubusercontent.com/callmetang/agent-pro/refs/heads/main/mac-us.png" />
 </details>
+
 
 
