@@ -68,7 +68,7 @@
 6. Works on both Windows and macOS.
 
 ## ⬇️ Download
-- [Download Agent PRO](https://bvxsmepnrqz.feishu.cn/wiki/Q40Dwx5MLicb5nkxtnUc4rfSnPd)
+- [Download Agent PRO](https://github.com/callmetang/agent-pro/releases/tag/v3.3.0)
 
 ## 🚀 Install & Launch
 **Windows**
@@ -98,6 +98,7 @@
 - QQ group: 963858131
 <img width="398" height="526" alt="image" src="https://raw.githubusercontent.com/callmetang/agent-pro/refs/heads/main/mac-us.png" />
 </details>
+
 
 
 
